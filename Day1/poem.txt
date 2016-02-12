@@ -1,0 +1,18 @@
+# Sajal lives in *Dubai*,
+## he is an **accountant** but wants to become a software engineer
+
+His favorite foods are:
++ Burgers
++ Fries
++ Milkshakes
+
+His favorite TV channels are:
+
+1. MTV
+2. News
+3. Sports
+
+---
+[His favorite website is:](www.google.com)
+He likes to visit San Francisco
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Golden_Gate_Bridge%2C_SF_%28cropped%29.jpg/1920px-Golden_Gate_Bridge%2C_SF_%28cropped%29.jpg)
